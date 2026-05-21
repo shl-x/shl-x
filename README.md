@@ -75,8 +75,16 @@ Modern dashboards, game menus, admin panels, and web interface experiments using
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shl-x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shl-x&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shl-x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="160" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shl-x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="160" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
@@ -84,7 +92,10 @@ Modern dashboards, game menus, admin panels, and web interface experiments using
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shl-x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=shl-x&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 ---
